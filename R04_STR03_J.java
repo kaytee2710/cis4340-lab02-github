@@ -1,6 +1,6 @@
 /*
 Rule: STR03-J
-Do not encode noncharacter data as a string
+Do not encode noncharacter data as a string 
 */
 
 import java.math.BigInteger;
